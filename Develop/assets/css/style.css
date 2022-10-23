@@ -3,27 +3,28 @@
     padding: 0;
     margin: 0;
 }
-
+/* Sets border sizing and padding*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Sets background color to light green*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Sets header font size, font family parameters, 
+and background color to light blue*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Sets header block position and font size*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Sets header color to light green*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,26 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Sets header navigation links padding size, 
+margin position, font family parameters, and font size*/
 .header nav ul {
     list-style-type: none;
 }
-
+/* Sets nav elements list style type*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Sets nav elements block position*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Sets "a" elements to white*/
 p {
     font-size: 16px;
 }
-
+/* Sets font size for paragraph elements*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Sets all parameters for hero element*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -102,7 +104,9 @@ p {
     max-width: 150px;
 }
 /*
-I was able to consolidate the benefits into a benefit-section class to minimize the code redundancy
+I was able to consolidate the benefits 
+into a benefit-section class 
+to minimize the code redundancy
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -206,7 +210,8 @@ I was able to consolidate the benefits into a benefit-section class to minimize 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Sets footer padding, block formatting, font family parameters, and where the text is aligned*/
 .footer h2 {
     font-size: 20px;
 }
+/* Sets footer font size*/
