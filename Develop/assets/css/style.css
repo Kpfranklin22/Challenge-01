@@ -102,6 +102,8 @@ p {
     max-width: 150px;
 }
 /*
+I was able to consolidate the benefits into a benefit-section class to minimize the code redundancy
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
