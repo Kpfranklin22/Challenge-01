@@ -6,6 +6,8 @@ This was the first exercise in On-the-job tickets. The exercise is about reading
 
 ![kpfranklin22 github io_Challenge-01_](https://user-images.githubusercontent.com/115495027/197605568-ac9e3875-a4b5-4fad-9b0f-40af6edf96d2.png)
 
+Deployed website: https://kpfranklin22.github.io/Challenge-01/#social-media-marketing
+
 ## Installation
 
 N/A
